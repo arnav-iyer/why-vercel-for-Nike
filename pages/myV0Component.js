@@ -75,7 +75,7 @@ export default function Component() {
                   Get Started
                 </Button>
               </a>
-            </Link>
+            </https://why-vercel-for-nike.vercel.app/#>
           </div>
         </div>
       </section>
