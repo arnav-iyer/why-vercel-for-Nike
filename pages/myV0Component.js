@@ -75,7 +75,12 @@ export default function Component() {
                   Get Started
                 </Button>
               </a>
-            </https://why-vercel-for-nike.vercel.app/#>
+              <a
+          href="https://why-vercel-for-nike.vercel.app/#"
+          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:text-black hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           </div>
         </div>
       </section>
