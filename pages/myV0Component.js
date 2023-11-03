@@ -69,18 +69,13 @@ export default function Component() {
             <Link href="#">
               <a href="#">
                 <Button
+                  href="https://why-vercel-for-nike.vercel.app/#"
                   className="bg-zinc-900 px-4 py-2 text-sm font-medium text-zinc-50 shadow transition-colors hover:bg-zinc-900/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-zinc-950 disabled:pointer-events-none disabled:opacity-50 dark:bg-zinc-50 dark:text-zinc-900 dark:hover:bg-zinc-50/90 dark:focus-visible:ring-zinc-300"
                   variant="default"
                 >
                   Get Started
                 </Button>
               </a>
-              <a
-          href="https://why-vercel-for-nike.vercel.app/#"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:text-black hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
           </div>
         </div>
       </section>
