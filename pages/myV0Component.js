@@ -8,7 +8,7 @@ import Link from "next/link"
 export default function Component() {
   return (
     <>
-      <section className="w-full py-12 md:py-24 lg:py-32 xl:py-48">
+      <section className="w-full py-12 md:py-24 lg:py-32 xl:py-48 flex flex-col items-center">
         <div className="container px-4 md:px-6">
           <div className="flex flex-col items-center space-y-4 text-center">
             <div className="space-y-2">
@@ -22,7 +22,7 @@ export default function Component() {
           </div>
         </div>
       </section>
-      <section className="w-full py-12 md:py-24 lg:py-32 bg-zinc-100 dark:bg-zinc-800">
+      <section className="w-full py-12 md:py-24 lg:py-32 bg-zinc-100 dark:bg-zinc-800 flex flex-col items-center">
         <div className="container px-4 md:px-6">
           <div className="grid gap-6 lg:grid-cols-4 lg:gap-12 xl:grid-cols-4">
             <div className="flex flex-col justify-center space-y-4">
@@ -64,7 +64,7 @@ export default function Component() {
           </div>
         </div>
       </section>
-      <section className="w-full py-12 md:py-24 lg:py-32">
+      <section className="w-full py-12 md:py-24 lg:py-32 flex flex-col items-center">
         <div className="container px-4 md:px-6">
           <div className="flex flex-col items-center space-y-4 text-center">
             <div className="space-y-2">
