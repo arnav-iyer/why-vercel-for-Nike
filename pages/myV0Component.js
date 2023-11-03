@@ -1,6 +1,6 @@
 /**
  * v0 by Vercel.
- * @see https://v0.dev/t/bYFM2bknHYn
+ * @see https://v0.dev/t/RQVLUutrABp
  */
 import { Button } from "@/components/ui/button"
 import Link from "next/link"
@@ -24,7 +24,7 @@ export default function Component() {
       </section>
       <section className="w-full py-12 md:py-24 lg:py-32 bg-zinc-100 dark:bg-zinc-800">
         <div className="container px-4 md:px-6">
-          <div className="grid gap-6 lg:grid-cols-3 lg:gap-12 xl:grid-cols-3">
+          <div className="grid gap-6 lg:grid-cols-4 lg:gap-12 xl:grid-cols-4">
             <div className="flex flex-col justify-center space-y-4">
               <div className="space-y-2">
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">Scalability</h2>
@@ -49,6 +49,15 @@ export default function Component() {
                 <p className="max-w-[600px] text-zinc-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-zinc-400">
                   Enjoy a streamlined developer experience with Vercel's integrated tooling. Deploy directly from Git,
                   preview every commit, and more.
+                </p>
+              </div>
+            </div>
+            <div className="flex flex-col justify-center space-y-4">
+              <div className="space-y-2">
+                <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">Next.js Expertise</h2>
+                <p className="max-w-[600px] text-zinc-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-zinc-400">
+                  With an enterprise contract, Nike will have access to the Vercel team's extensive Next.js expertise.
+                  This includes personalized support and guidance for your Next.js projects.
                 </p>
               </div>
             </div>
@@ -82,3 +91,4 @@ export default function Component() {
     </>
   )
 }
+
