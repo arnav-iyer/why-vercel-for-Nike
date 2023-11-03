@@ -76,7 +76,7 @@ export default function Component() {
               </p>
             </div>
             <Link href="#">
-              <a href="#">
+              <a href="https://vercel.com/contact/sales">
                 <Button
                   className="bg-zinc-900 px-4 py-2 text-sm font-medium text-zinc-50 shadow transition-colors hover:bg-zinc-900/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-zinc-950 disabled:pointer-events-none disabled:opacity-50 dark:bg-zinc-50 dark:text-zinc-900 dark:hover:bg-zinc-50/90 dark:focus-visible:ring-zinc-300"
                   variant="default"
