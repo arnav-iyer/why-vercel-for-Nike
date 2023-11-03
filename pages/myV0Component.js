@@ -56,8 +56,8 @@ export default function Component() {
               <div className="space-y-2">
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">Next.js Expertise</h2>
                 <p className="max-w-[600px] text-zinc-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-zinc-400">
-                  With an enterprise contract, Nike will have access to the Vercel team's extensive Next.js expertise.
-                  This includes personalized support and guidance for your Next.js projects.
+                  With Vercel Enterprise, Nike will have access to the Vercel & Core Next.js teams and our extensive Next.js expertise.
+                  This includes personalized support and guidance for all of Nike&apos;s Next.js projects.
                 </p>
               </div>
             </div>
