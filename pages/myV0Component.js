@@ -29,7 +29,7 @@ export default function Component() {
               <div className="space-y-2">
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">Scalability</h2>
                 <p className="max-w-[600px] text-zinc-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  With Vercel, scale your application seamlessly to handle any traffic volume. No need to manage
+                  With Vercel, scale your application seamlessly to handle traffic spikes for Nike shoe drops with over 1M users. No need to manage
                   infrastructure or upgrade hardware.
                 </p>
               </div>
@@ -39,7 +39,7 @@ export default function Component() {
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">Performance</h2>
                 <p className="max-w-[600px] text-zinc-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                   Vercel ensures your Next.js applications are served from the edge, close to your users, for optimal
-                  loading times and a great user experience.
+                  loading times and an improved UX.
                 </p>
               </div>
             </div>
@@ -47,7 +47,7 @@ export default function Component() {
               <div className="space-y-2">
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">Developer Experience</h2>
                 <p className="max-w-[600px] text-zinc-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  Enjoy a streamlined developer experience with Vercel's integrated tooling. Deploy directly from Git,
+                  Enjoy a streamlined developer experience with Vercel's integrated tooling. Improve your developer culture and start attracting top-notch talent at Nike. Deploy directly from Git,
                   preview every commit, and more.
                 </p>
               </div>
